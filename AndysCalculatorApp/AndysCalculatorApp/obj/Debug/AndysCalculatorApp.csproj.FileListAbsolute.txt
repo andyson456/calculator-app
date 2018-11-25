@@ -1,0 +1,10 @@
+C:\Users\andys\OneDrive\Desktop\Workspace\C# Files\AndysCalculatorApp\AndysCalculatorApp\bin\Debug\AndysCalculatorApp.exe.config
+C:\Users\andys\OneDrive\Desktop\Workspace\C# Files\AndysCalculatorApp\AndysCalculatorApp\bin\Debug\AndysCalculatorApp.exe
+C:\Users\andys\OneDrive\Desktop\Workspace\C# Files\AndysCalculatorApp\AndysCalculatorApp\bin\Debug\AndysCalculatorApp.pdb
+C:\Users\andys\OneDrive\Desktop\Workspace\C# Files\AndysCalculatorApp\AndysCalculatorApp\obj\Debug\AndysCalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\andys\OneDrive\Desktop\Workspace\C# Files\AndysCalculatorApp\AndysCalculatorApp\obj\Debug\AndysCalculatorApp.Form1.resources
+C:\Users\andys\OneDrive\Desktop\Workspace\C# Files\AndysCalculatorApp\AndysCalculatorApp\obj\Debug\AndysCalculatorApp.Properties.Resources.resources
+C:\Users\andys\OneDrive\Desktop\Workspace\C# Files\AndysCalculatorApp\AndysCalculatorApp\obj\Debug\AndysCalculatorApp.csproj.GenerateResource.cache
+C:\Users\andys\OneDrive\Desktop\Workspace\C# Files\AndysCalculatorApp\AndysCalculatorApp\obj\Debug\AndysCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\andys\OneDrive\Desktop\Workspace\C# Files\AndysCalculatorApp\AndysCalculatorApp\obj\Debug\AndysCalculatorApp.exe
+C:\Users\andys\OneDrive\Desktop\Workspace\C# Files\AndysCalculatorApp\AndysCalculatorApp\obj\Debug\AndysCalculatorApp.pdb
